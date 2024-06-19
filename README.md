@@ -58,6 +58,7 @@ Database practices involve
 * Retrieve data from tables
 * Update the tables and see the change in results using query
 * Dropping all the tables and creating them back for any redundant tables
+
 You can get access to all the tables [here](https://github.com/saisanthosh1982/Hygienic-Food-Distribution-Database/tree/main/Phase-4)
 ### Key takeaways:
 It was a great opportunity for us to work with different personalities and learn from others to improve our skills mainly working with real-time data has given us more exposure to the database which will help us to upskill toward the database systems, finally, we want to thank you for all the process and the phases in the project through which we have learned a lot from each other 
